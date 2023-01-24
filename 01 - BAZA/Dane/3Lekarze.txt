@@ -1,0 +1,6 @@
+load data
+infile '3Lekarze.csv'
+append into table LEKARZE
+fields terminated by ','
+OPTIONALLY ENCLOSED BY '"' AND '"'
+(Id_lekarze,Id_specjalizacje,Id_dyzury,Imie,Nazwisko,Data_zatrudnienia,Pensja)

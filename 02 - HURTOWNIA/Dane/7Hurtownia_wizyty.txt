@@ -1,0 +1,6 @@
+load data
+infile '7Hurtownia_wizyty.csv'
+append into table HURTOWNIA_WIZYTY
+fields terminated by ','
+OPTIONALLY ENCLOSED BY '"' AND '"'
+(Id_wizyty, Id_pacjenci, Id_lekarze, Id_badania, Id_wyniki_badan, Id_leki, Id_gabinety, Data, Data_wyniki_badan, Id_recepty, Data_recepty, Cena_leki, Cena_badania, Id_dyzury, Data_dyzury, Id_specjalizacje, Id_skierowania)

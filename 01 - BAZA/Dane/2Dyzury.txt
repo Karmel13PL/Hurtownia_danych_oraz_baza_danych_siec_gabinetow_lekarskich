@@ -1,0 +1,6 @@
+load data
+infile '2Dyzury.csv'
+append into table DYZURY
+fields terminated by ','
+OPTIONALLY ENCLOSED BY '"' AND '"'
+(Id_dyzury,Data)

@@ -1,0 +1,6 @@
+load data
+infile '1Hurtownia_pacjenci.csv'
+append into table HURTOWNIA_PACJENCI
+fields terminated by ','
+OPTIONALLY ENCLOSED BY '"' AND '"'
+(Id_pacjenci, Imie, Nazwisko)

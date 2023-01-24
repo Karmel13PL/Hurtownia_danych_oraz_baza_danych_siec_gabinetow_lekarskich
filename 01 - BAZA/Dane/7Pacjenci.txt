@@ -1,0 +1,6 @@
+load data
+infile '7Pacjenci.csv'
+append into table PACJENCI
+fields terminated by ','
+OPTIONALLY ENCLOSED BY '"' AND '"'
+(Id_pacjenci,Imie,Nazwisko,Data_urodzenia,Pesel)

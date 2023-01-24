@@ -1,0 +1,6 @@
+load data
+infile '6Gabinety.csv'
+append into table GABINETY
+fields terminated by ','
+OPTIONALLY ENCLOSED BY '"' AND '"'
+(Id_gabinety,Id_pracownicy,Nazwa,Adres,Numer_pokoju)

@@ -1,0 +1,6 @@
+load data
+infile '9Badania.csv'
+append into table BADANIA
+fields terminated by ','
+OPTIONALLY ENCLOSED BY '"' AND '"'
+(Id_badania,Nazwa,Cena)

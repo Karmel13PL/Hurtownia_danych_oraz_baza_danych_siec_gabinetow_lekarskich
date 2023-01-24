@@ -1,0 +1,1001 @@
+Id_producenci,Nazwa
+1,TZMO
+2,Biofarm
+3,BLIRT
+4,Adamed
+5,Polpharma
+6,Polpharma
+7,Neuca
+8,Aflofarm
+9,Neuca
+10,Adamed
+11,Biomed-Lublin Wytwornia Surowic i Szczepionek
+12,Cefarm Szczecin
+13,Selvita
+14,Cefarm Szczecin
+15,Mercator Medical
+16,Adiuvo
+17,Adamed
+18,FSP Galena
+19,Bioton
+20,Cormay
+21,Mercator Medical
+22,Airway Medix
+23,Cefarm Szczecin
+24,Bioton
+25,Adamed
+26,Cormay
+27,Neuca
+28,Polpharma
+29,Cormay
+30,Mabion S.A.
+31,Polpharma
+32,Adiuvo
+33,TZMO
+34,Polpharma
+35,Mabion S.A.
+36,Adamed
+37,Adamed
+38,BLIRT
+39,Mabion S.A.
+40,Aflofarm
+41,Cormay
+42,Cefarm Szczecin
+43,Polpharma
+44,Cefarm Szczecin
+45,TZMO
+46,Biofarm
+47,Adamed
+48,Celon Pharma S.A.
+49,Adamed
+50,FSP Galena
+51,Mabion S.A.
+52,Mercator Medical
+53,Mabion S.A.
+54,Cefarm Szczecin
+55,Grupa Farmacol
+56,TZMO
+57,Selvita
+58,BLIRT
+59,Bioton
+60,Adamed
+61,Biomed-Lublin Wytwornia Surowic i Szczepionek
+62,TZMO
+63,Adiuvo
+64,Polpharma
+65,Mabion S.A.
+66,Mabion S.A.
+67,Selvita
+68,Cefarm Szczecin
+69,Biofarm
+70,Grupa Farmacol
+71,Biofarm
+72,Selvita
+73,Airway Medix
+74,Mabion S.A.
+75,Selvita
+76,Grupa Farmacol
+77,FSP Galena
+78,Biomed-Lublin Wytwornia Surowic i Szczepionek
+79,FSP Galena
+80,Biofarm
+81,Cefarm Szczecin
+82,Adamed
+83,Aflofarm
+84,Selvita
+85,Mabion S.A.
+86,Airway Medix
+87,Neuca
+88,TZMO
+89,Grupa Farmacol
+90,Bioton
+91,Polpharma
+92,Celon Pharma S.A.
+93,Selvita
+94,Celon Pharma S.A.
+95,Adiuvo
+96,Biofarm
+97,Bioton
+98,Airway Medix
+99,Adamed
+100,Cormay
+101,TZMO
+102,Adamed
+103,TZMO
+104,Celon Pharma S.A.
+105,Cormay
+106,Mabion S.A.
+107,Celon Pharma S.A.
+108,FSP Galena
+109,Bioton
+110,Grupa Farmacol
+111,Biomed-Lublin Wytwornia Surowic i Szczepionek
+112,FSP Galena
+113,Bioton
+114,Bioton
+115,Neuca
+116,Mercator Medical
+117,Grupa Farmacol
+118,Selvita
+119,Adamed
+120,Adamed
+121,Bioton
+122,Cormay
+123,Biofarm
+124,Polpharma
+125,Mabion S.A.
+126,Biofarm
+127,TZMO
+128,Biofarm
+129,Cefarm Szczecin
+130,Mabion S.A.
+131,Cormay
+132,Cefarm Szczecin
+133,Biofarm
+134,FSP Galena
+135,Mercator Medical
+136,Biofarm
+137,Polpharma
+138,Polpharma
+139,Selvita
+140,Cormay
+141,Selvita
+142,Polpharma
+143,Selvita
+144,TZMO
+145,Celon Pharma S.A.
+146,Mabion S.A.
+147,Mercator Medical
+148,Adiuvo
+149,Celon Pharma S.A.
+150,Adamed
+151,Polpharma
+152,Biofarm
+153,FSP Galena
+154,Adiuvo
+155,Adamed
+156,Selvita
+157,Mercator Medical
+158,Selvita
+159,Celon Pharma S.A.
+160,Biomed-Lublin Wytwornia Surowic i Szczepionek
+161,Polpharma
+162,Selvita
+163,Adamed
+164,Biomed-Lublin Wytwornia Surowic i Szczepionek
+165,Celon Pharma S.A.
+166,Cefarm Szczecin
+167,Neuca
+168,Biofarm
+169,Grupa Farmacol
+170,Adiuvo
+171,Aflofarm
+172,TZMO
+173,Aflofarm
+174,Selvita
+175,Mercator Medical
+176,Biomed-Lublin Wytwornia Surowic i Szczepionek
+177,Cormay
+178,Biomed-Lublin Wytwornia Surowic i Szczepionek
+179,Biomed-Lublin Wytwornia Surowic i Szczepionek
+180,BLIRT
+181,Grupa Farmacol
+182,Grupa Farmacol
+183,Biofarm
+184,Celon Pharma S.A.
+185,Neuca
+186,Celon Pharma S.A.
+187,Cormay
+188,TZMO
+189,Mercator Medical
+190,Aflofarm
+191,Mercator Medical
+192,Polpharma
+193,Adiuvo
+194,TZMO
+195,BLIRT
+196,BLIRT
+197,Neuca
+198,Biofarm
+199,Polpharma
+200,BLIRT
+201,FSP Galena
+202,Polpharma
+203,Mabion S.A.
+204,Mabion S.A.
+205,Celon Pharma S.A.
+206,BLIRT
+207,BLIRT
+208,BLIRT
+209,Airway Medix
+210,Mabion S.A.
+211,Neuca
+212,Biomed-Lublin Wytwornia Surowic i Szczepionek
+213,Biofarm
+214,Adamed
+215,Polpharma
+216,Celon Pharma S.A.
+217,Aflofarm
+218,Neuca
+219,FSP Galena
+220,FSP Galena
+221,Cormay
+222,Cefarm Szczecin
+223,Grupa Farmacol
+224,Mercator Medical
+225,BLIRT
+226,Adiuvo
+227,Celon Pharma S.A.
+228,TZMO
+229,Neuca
+230,Selvita
+231,BLIRT
+232,Cormay
+233,Selvita
+234,Aflofarm
+235,BLIRT
+236,Cormay
+237,Grupa Farmacol
+238,Adiuvo
+239,Adamed
+240,Celon Pharma S.A.
+241,Adiuvo
+242,Grupa Farmacol
+243,Cefarm Szczecin
+244,Adiuvo
+245,Selvita
+246,Celon Pharma S.A.
+247,BLIRT
+248,Bioton
+249,Biofarm
+250,Adiuvo
+251,Neuca
+252,FSP Galena
+253,Aflofarm
+254,BLIRT
+255,Cefarm Szczecin
+256,Grupa Farmacol
+257,Neuca
+258,Mabion S.A.
+259,BLIRT
+260,Cormay
+261,Celon Pharma S.A.
+262,Selvita
+263,Mabion S.A.
+264,FSP Galena
+265,Bioton
+266,Mabion S.A.
+267,Airway Medix
+268,Celon Pharma S.A.
+269,BLIRT
+270,Selvita
+271,Polpharma
+272,Grupa Farmacol
+273,Biofarm
+274,Celon Pharma S.A.
+275,Airway Medix
+276,BLIRT
+277,Cormay
+278,Adiuvo
+279,Neuca
+280,Celon Pharma S.A.
+281,Selvita
+282,Grupa Farmacol
+283,Mabion S.A.
+284,Celon Pharma S.A.
+285,Grupa Farmacol
+286,Adamed
+287,Celon Pharma S.A.
+288,Mabion S.A.
+289,Adiuvo
+290,Neuca
+291,FSP Galena
+292,Biomed-Lublin Wytwornia Surowic i Szczepionek
+293,Grupa Farmacol
+294,Mercator Medical
+295,Polpharma
+296,Polpharma
+297,FSP Galena
+298,Mercator Medical
+299,Celon Pharma S.A.
+300,BLIRT
+301,Mercator Medical
+302,Mercator Medical
+303,Adiuvo
+304,Selvita
+305,Cormay
+306,Celon Pharma S.A.
+307,TZMO
+308,BLIRT
+309,Adamed
+310,Cormay
+311,Grupa Farmacol
+312,Cormay
+313,Biofarm
+314,Selvita
+315,Bioton
+316,BLIRT
+317,Cefarm Szczecin
+318,Biomed-Lublin Wytwornia Surowic i Szczepionek
+319,Aflofarm
+320,Cormay
+321,Mabion S.A.
+322,Adiuvo
+323,Neuca
+324,Aflofarm
+325,Celon Pharma S.A.
+326,Polpharma
+327,Neuca
+328,Mercator Medical
+329,Biomed-Lublin Wytwornia Surowic i Szczepionek
+330,Airway Medix
+331,Cefarm Szczecin
+332,Neuca
+333,Mabion S.A.
+334,Celon Pharma S.A.
+335,BLIRT
+336,Neuca
+337,Adamed
+338,Biofarm
+339,Grupa Farmacol
+340,Mercator Medical
+341,Adiuvo
+342,Cefarm Szczecin
+343,Mercator Medical
+344,Airway Medix
+345,Selvita
+346,TZMO
+347,Biofarm
+348,Aflofarm
+349,Mercator Medical
+350,Cefarm Szczecin
+351,Aflofarm
+352,Neuca
+353,Neuca
+354,Mabion S.A.
+355,Mercator Medical
+356,Bioton
+357,Celon Pharma S.A.
+358,Adamed
+359,Polpharma
+360,Aflofarm
+361,Neuca
+362,Neuca
+363,Celon Pharma S.A.
+364,Cefarm Szczecin
+365,Airway Medix
+366,Bioton
+367,Polpharma
+368,BLIRT
+369,Polpharma
+370,Biofarm
+371,Biomed-Lublin Wytwornia Surowic i Szczepionek
+372,Neuca
+373,Cormay
+374,Biomed-Lublin Wytwornia Surowic i Szczepionek
+375,Neuca
+376,Selvita
+377,TZMO
+378,BLIRT
+379,Biofarm
+380,Celon Pharma S.A.
+381,Selvita
+382,Selvita
+383,Polpharma
+384,Mercator Medical
+385,BLIRT
+386,Selvita
+387,Airway Medix
+388,Celon Pharma S.A.
+389,Biofarm
+390,FSP Galena
+391,Polpharma
+392,Biomed-Lublin Wytwornia Surowic i Szczepionek
+393,Cefarm Szczecin
+394,Cefarm Szczecin
+395,Biofarm
+396,Cefarm Szczecin
+397,Polpharma
+398,Airway Medix
+399,Cormay
+400,Cormay
+401,Adiuvo
+402,Cefarm Szczecin
+403,Adiuvo
+404,Celon Pharma S.A.
+405,Mercator Medical
+406,Bioton
+407,Neuca
+408,Cefarm Szczecin
+409,TZMO
+410,Neuca
+411,Cormay
+412,Biomed-Lublin Wytwornia Surowic i Szczepionek
+413,Biofarm
+414,Selvita
+415,Cefarm Szczecin
+416,Adiuvo
+417,Airway Medix
+418,BLIRT
+419,TZMO
+420,BLIRT
+421,Grupa Farmacol
+422,Neuca
+423,Aflofarm
+424,Mabion S.A.
+425,Celon Pharma S.A.
+426,Airway Medix
+427,Mercator Medical
+428,Biofarm
+429,Airway Medix
+430,Biomed-Lublin Wytwornia Surowic i Szczepionek
+431,Celon Pharma S.A.
+432,Selvita
+433,Mabion S.A.
+434,Mercator Medical
+435,Adamed
+436,Biomed-Lublin Wytwornia Surowic i Szczepionek
+437,Bioton
+438,Cefarm Szczecin
+439,Airway Medix
+440,Bioton
+441,Bioton
+442,Biofarm
+443,Neuca
+444,BLIRT
+445,Celon Pharma S.A.
+446,Celon Pharma S.A.
+447,Adiuvo
+448,TZMO
+449,Adamed
+450,Airway Medix
+451,Grupa Farmacol
+452,Biomed-Lublin Wytwornia Surowic i Szczepionek
+453,Cefarm Szczecin
+454,Celon Pharma S.A.
+455,Neuca
+456,Adiuvo
+457,Celon Pharma S.A.
+458,Celon Pharma S.A.
+459,Neuca
+460,Celon Pharma S.A.
+461,Aflofarm
+462,Adamed
+463,Grupa Farmacol
+464,Biomed-Lublin Wytwornia Surowic i Szczepionek
+465,TZMO
+466,BLIRT
+467,Mercator Medical
+468,Celon Pharma S.A.
+469,Mabion S.A.
+470,Grupa Farmacol
+471,Cefarm Szczecin
+472,BLIRT
+473,Polpharma
+474,Neuca
+475,Mabion S.A.
+476,Mercator Medical
+477,Aflofarm
+478,Neuca
+479,Neuca
+480,Bioton
+481,Adamed
+482,Polpharma
+483,Airway Medix
+484,Mercator Medical
+485,Adamed
+486,Cefarm Szczecin
+487,BLIRT
+488,Neuca
+489,Adamed
+490,Aflofarm
+491,Adamed
+492,Biofarm
+493,Aflofarm
+494,FSP Galena
+495,BLIRT
+496,Adiuvo
+497,Celon Pharma S.A.
+498,Biofarm
+499,Adiuvo
+500,Aflofarm
+501,Aflofarm
+502,TZMO
+503,Polpharma
+504,FSP Galena
+505,Aflofarm
+506,Adiuvo
+507,Adamed
+508,FSP Galena
+509,Aflofarm
+510,Biomed-Lublin Wytwornia Surowic i Szczepionek
+511,FSP Galena
+512,Airway Medix
+513,Polpharma
+514,BLIRT
+515,Adiuvo
+516,Celon Pharma S.A.
+517,Selvita
+518,TZMO
+519,Celon Pharma S.A.
+520,Polpharma
+521,TZMO
+522,Adiuvo
+523,Adamed
+524,Selvita
+525,Cormay
+526,Polpharma
+527,Biofarm
+528,Mabion S.A.
+529,Mabion S.A.
+530,Cormay
+531,Adamed
+532,Airway Medix
+533,FSP Galena
+534,Mabion S.A.
+535,Celon Pharma S.A.
+536,BLIRT
+537,BLIRT
+538,BLIRT
+539,Polpharma
+540,Biomed-Lublin Wytwornia Surowic i Szczepionek
+541,Selvita
+542,Cormay
+543,Mabion S.A.
+544,Mabion S.A.
+545,Cormay
+546,Adamed
+547,Biomed-Lublin Wytwornia Surowic i Szczepionek
+548,Celon Pharma S.A.
+549,Celon Pharma S.A.
+550,Mercator Medical
+551,Polpharma
+552,Neuca
+553,BLIRT
+554,Mabion S.A.
+555,Cormay
+556,Biofarm
+557,Grupa Farmacol
+558,Aflofarm
+559,Biomed-Lublin Wytwornia Surowic i Szczepionek
+560,Mercator Medical
+561,Airway Medix
+562,FSP Galena
+563,Biofarm
+564,BLIRT
+565,Cefarm Szczecin
+566,Grupa Farmacol
+567,Adiuvo
+568,Grupa Farmacol
+569,Bioton
+570,Airway Medix
+571,Grupa Farmacol
+572,TZMO
+573,Mercator Medical
+574,TZMO
+575,Adiuvo
+576,Celon Pharma S.A.
+577,Biofarm
+578,Cormay
+579,Biomed-Lublin Wytwornia Surowic i Szczepionek
+580,Adamed
+581,Biofarm
+582,Airway Medix
+583,Bioton
+584,Bioton
+585,Biofarm
+586,Adiuvo
+587,Mabion S.A.
+588,FSP Galena
+589,TZMO
+590,Airway Medix
+591,Adiuvo
+592,Airway Medix
+593,Cefarm Szczecin
+594,Adamed
+595,TZMO
+596,Airway Medix
+597,Cormay
+598,Cefarm Szczecin
+599,Neuca
+600,Adiuvo
+601,Celon Pharma S.A.
+602,Adamed
+603,Aflofarm
+604,FSP Galena
+605,Cefarm Szczecin
+606,Aflofarm
+607,Grupa Farmacol
+608,BLIRT
+609,Mabion S.A.
+610,Biofarm
+611,Neuca
+612,Grupa Farmacol
+613,Grupa Farmacol
+614,BLIRT
+615,Airway Medix
+616,Adamed
+617,Neuca
+618,Grupa Farmacol
+619,Biofarm
+620,Aflofarm
+621,Mabion S.A.
+622,FSP Galena
+623,Selvita
+624,Cormay
+625,Mabion S.A.
+626,Adamed
+627,Biomed-Lublin Wytwornia Surowic i Szczepionek
+628,FSP Galena
+629,FSP Galena
+630,FSP Galena
+631,Grupa Farmacol
+632,Mercator Medical
+633,BLIRT
+634,Cormay
+635,Cormay
+636,Biomed-Lublin Wytwornia Surowic i Szczepionek
+637,Celon Pharma S.A.
+638,Bioton
+639,Selvita
+640,Neuca
+641,Cormay
+642,Mabion S.A.
+643,Cormay
+644,Adamed
+645,Bioton
+646,Polpharma
+647,Celon Pharma S.A.
+648,Biomed-Lublin Wytwornia Surowic i Szczepionek
+649,FSP Galena
+650,TZMO
+651,Celon Pharma S.A.
+652,Selvita
+653,Adamed
+654,FSP Galena
+655,Mabion S.A.
+656,Biofarm
+657,Airway Medix
+658,FSP Galena
+659,Adamed
+660,Aflofarm
+661,FSP Galena
+662,Polpharma
+663,Selvita
+664,Biomed-Lublin Wytwornia Surowic i Szczepionek
+665,Grupa Farmacol
+666,FSP Galena
+667,Biofarm
+668,BLIRT
+669,Selvita
+670,Cormay
+671,Celon Pharma S.A.
+672,Biomed-Lublin Wytwornia Surowic i Szczepionek
+673,Airway Medix
+674,Selvita
+675,Mabion S.A.
+676,Mabion S.A.
+677,TZMO
+678,TZMO
+679,Grupa Farmacol
+680,Airway Medix
+681,Celon Pharma S.A.
+682,Neuca
+683,Celon Pharma S.A.
+684,Aflofarm
+685,Bioton
+686,Celon Pharma S.A.
+687,Polpharma
+688,Cefarm Szczecin
+689,Celon Pharma S.A.
+690,TZMO
+691,Cefarm Szczecin
+692,Mabion S.A.
+693,Biomed-Lublin Wytwornia Surowic i Szczepionek
+694,TZMO
+695,Adamed
+696,Biomed-Lublin Wytwornia Surowic i Szczepionek
+697,BLIRT
+698,Selvita
+699,Celon Pharma S.A.
+700,Adiuvo
+701,Grupa Farmacol
+702,Mabion S.A.
+703,Aflofarm
+704,Neuca
+705,Selvita
+706,TZMO
+707,TZMO
+708,Cefarm Szczecin
+709,Polpharma
+710,Selvita
+711,Neuca
+712,Cormay
+713,TZMO
+714,Mercator Medical
+715,Biomed-Lublin Wytwornia Surowic i Szczepionek
+716,BLIRT
+717,Grupa Farmacol
+718,FSP Galena
+719,Bioton
+720,Airway Medix
+721,BLIRT
+722,Mercator Medical
+723,Neuca
+724,Neuca
+725,Neuca
+726,Biomed-Lublin Wytwornia Surowic i Szczepionek
+727,TZMO
+728,Neuca
+729,Neuca
+730,Bioton
+731,Cefarm Szczecin
+732,Bioton
+733,Biofarm
+734,Mabion S.A.
+735,Celon Pharma S.A.
+736,Aflofarm
+737,Adiuvo
+738,Cormay
+739,Aflofarm
+740,Selvita
+741,Adamed
+742,Selvita
+743,Biomed-Lublin Wytwornia Surowic i Szczepionek
+744,Biofarm
+745,Polpharma
+746,Bioton
+747,Adamed
+748,BLIRT
+749,Adiuvo
+750,TZMO
+751,Grupa Farmacol
+752,Celon Pharma S.A.
+753,Mercator Medical
+754,Neuca
+755,BLIRT
+756,BLIRT
+757,Biomed-Lublin Wytwornia Surowic i Szczepionek
+758,Biomed-Lublin Wytwornia Surowic i Szczepionek
+759,Adamed
+760,Adiuvo
+761,Airway Medix
+762,Mercator Medical
+763,Celon Pharma S.A.
+764,Aflofarm
+765,Polpharma
+766,FSP Galena
+767,Celon Pharma S.A.
+768,Airway Medix
+769,Polpharma
+770,Polpharma
+771,Adiuvo
+772,Celon Pharma S.A.
+773,Cormay
+774,Adiuvo
+775,Selvita
+776,Grupa Farmacol
+777,Celon Pharma S.A.
+778,TZMO
+779,Polpharma
+780,Grupa Farmacol
+781,BLIRT
+782,Polpharma
+783,BLIRT
+784,Cormay
+785,Cormay
+786,Cormay
+787,Bioton
+788,Biofarm
+789,Selvita
+790,Bioton
+791,Airway Medix
+792,Biofarm
+793,TZMO
+794,Cormay
+795,Cormay
+796,Celon Pharma S.A.
+797,Polpharma
+798,Polpharma
+799,Selvita
+800,Cefarm Szczecin
+801,Cefarm Szczecin
+802,Neuca
+803,Selvita
+804,Biofarm
+805,Selvita
+806,Biomed-Lublin Wytwornia Surowic i Szczepionek
+807,Polpharma
+808,Cormay
+809,Aflofarm
+810,Mercator Medical
+811,TZMO
+812,Mabion S.A.
+813,Mabion S.A.
+814,Biofarm
+815,Biomed-Lublin Wytwornia Surowic i Szczepionek
+816,Mercator Medical
+817,Mercator Medical
+818,FSP Galena
+819,FSP Galena
+820,Polpharma
+821,Polpharma
+822,Airway Medix
+823,TZMO
+824,BLIRT
+825,Celon Pharma S.A.
+826,Polpharma
+827,Cormay
+828,Biofarm
+829,Celon Pharma S.A.
+830,Adamed
+831,Mercator Medical
+832,Biofarm
+833,BLIRT
+834,BLIRT
+835,Grupa Farmacol
+836,Cefarm Szczecin
+837,Polpharma
+838,Bioton
+839,Polpharma
+840,Aflofarm
+841,BLIRT
+842,Polpharma
+843,FSP Galena
+844,TZMO
+845,Airway Medix
+846,Cormay
+847,Airway Medix
+848,Selvita
+849,Biofarm
+850,Cefarm Szczecin
+851,Mabion S.A.
+852,FSP Galena
+853,Adiuvo
+854,BLIRT
+855,Cefarm Szczecin
+856,Celon Pharma S.A.
+857,Cefarm Szczecin
+858,Mabion S.A.
+859,Biomed-Lublin Wytwornia Surowic i Szczepionek
+860,Airway Medix
+861,Celon Pharma S.A.
+862,Selvita
+863,Aflofarm
+864,Neuca
+865,Mercator Medical
+866,Celon Pharma S.A.
+867,Adamed
+868,Biomed-Lublin Wytwornia Surowic i Szczepionek
+869,Biomed-Lublin Wytwornia Surowic i Szczepionek
+870,Adiuvo
+871,Grupa Farmacol
+872,Biomed-Lublin Wytwornia Surowic i Szczepionek
+873,Grupa Farmacol
+874,TZMO
+875,Cormay
+876,FSP Galena
+877,Mercator Medical
+878,Bioton
+879,Biofarm
+880,TZMO
+881,Adiuvo
+882,Airway Medix
+883,Neuca
+884,Airway Medix
+885,Cefarm Szczecin
+886,Airway Medix
+887,Bioton
+888,Adamed
+889,Mercator Medical
+890,BLIRT
+891,Neuca
+892,Cefarm Szczecin
+893,Cormay
+894,Mabion S.A.
+895,Mabion S.A.
+896,Airway Medix
+897,Celon Pharma S.A.
+898,Airway Medix
+899,Cormay
+900,Airway Medix
+901,Biofarm
+902,Polpharma
+903,Polpharma
+904,TZMO
+905,Celon Pharma S.A.
+906,Cefarm Szczecin
+907,TZMO
+908,Airway Medix
+909,FSP Galena
+910,Aflofarm
+911,Mercator Medical
+912,FSP Galena
+913,Adamed
+914,Mercator Medical
+915,FSP Galena
+916,Airway Medix
+917,FSP Galena
+918,Mabion S.A.
+919,Cefarm Szczecin
+920,Neuca
+921,Mercator Medical
+922,Neuca
+923,FSP Galena
+924,Celon Pharma S.A.
+925,Adamed
+926,TZMO
+927,Biofarm
+928,Biomed-Lublin Wytwornia Surowic i Szczepionek
+929,Biofarm
+930,Cefarm Szczecin
+931,Airway Medix
+932,Mercator Medical
+933,Cefarm Szczecin
+934,Selvita
+935,Neuca
+936,Neuca
+937,Bioton
+938,Adamed
+939,Selvita
+940,Cormay
+941,Biomed-Lublin Wytwornia Surowic i Szczepionek
+942,Biomed-Lublin Wytwornia Surowic i Szczepionek
+943,Mabion S.A.
+944,TZMO
+945,Bioton
+946,Cormay
+947,Adiuvo
+948,Airway Medix
+949,Bioton
+950,Selvita
+951,Selvita
+952,Adamed
+953,TZMO
+954,Airway Medix
+955,Aflofarm
+956,Airway Medix
+957,Neuca
+958,Mabion S.A.
+959,Polpharma
+960,Aflofarm
+961,Cormay
+962,Aflofarm
+963,TZMO
+964,Selvita
+965,Cefarm Szczecin
+966,Polpharma
+967,Aflofarm
+968,FSP Galena
+969,Aflofarm
+970,FSP Galena
+971,Biomed-Lublin Wytwornia Surowic i Szczepionek
+972,Celon Pharma S.A.
+973,Selvita
+974,Bioton
+975,Celon Pharma S.A.
+976,Aflofarm
+977,BLIRT
+978,Cormay
+979,Selvita
+980,Selvita
+981,FSP Galena
+982,Adiuvo
+983,Bioton
+984,Adiuvo
+985,Celon Pharma S.A.
+986,Mercator Medical
+987,Biomed-Lublin Wytwornia Surowic i Szczepionek
+988,Mabion S.A.
+989,Adiuvo
+990,Cefarm Szczecin
+991,Biofarm
+992,Bioton
+993,FSP Galena
+994,Aflofarm
+995,BLIRT
+996,Bioton
+997,FSP Galena
+998,Polpharma
+999,TZMO
+1000,Mercator Medical

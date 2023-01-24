@@ -1,0 +1,6 @@
+load data
+infile '1Specjalizacje.csv'
+append into table SPECJALIZACJE
+fields terminated by ','
+OPTIONALLY ENCLOSED BY '"' AND '"'
+(Id_specjalizacje,Nazwa)

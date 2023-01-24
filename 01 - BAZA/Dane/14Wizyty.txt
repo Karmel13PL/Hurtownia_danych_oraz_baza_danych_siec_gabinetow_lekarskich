@@ -1,0 +1,6 @@
+load data
+infile '14Wizyty.csv'
+append into table WIZYTY
+fields terminated by ','
+OPTIONALLY ENCLOSED BY '"' AND '"'
+(Id_wizyty,Id_lekarze,Id_gabinety,Id_skierowania,Id_wyniki_badan,Id_recepty,Data,Opis)

@@ -1,0 +1,6 @@
+load data
+infile '12Leki.csv'
+append into table LEKI
+fields terminated by ','
+OPTIONALLY ENCLOSED BY '"' AND '"'
+(Id_leki,Id_producenci,Nazwa,Cena)
